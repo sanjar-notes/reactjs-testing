@@ -16,3 +16,15 @@ Each test, fundamentally consists of these phases, in order:
 3. Locating elements that need to be tested
 4. Interacting with the elements
 5. Asserting the values of the result
+
+Example (this is a simple example - no props or interaction is needed here)
+```jsx
+import { render, screen } from '@testing-library/react';
+import App from './App';
+
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  expect(linkElement).toBeInTheDocument();
+});
+```
