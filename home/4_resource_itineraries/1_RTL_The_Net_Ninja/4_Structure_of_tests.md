@@ -13,7 +13,7 @@ To run selected tests run the command `npm run test MyComponent.test.jsx`.
 Each test, fundamentally consists of these phases, in order:
 1. Preparing global store (Redux, for example) and props.
 2. Rendering the component.
-3. Locating elements that need to be tested
+3. Locating elements that need to be tested, by querying w.r.t attributes/content.
 4. Interacting with the elements
 5. Asserting the values of the result
 
