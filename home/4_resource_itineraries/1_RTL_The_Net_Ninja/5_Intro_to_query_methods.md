@@ -1,7 +1,6 @@
 # 5. Intro to query methods
 
 ### Why
-
 Query methods are used for locating subcomponents/elements of a component.
 
 ##### Types of query methods (prefixes)
