@@ -28,3 +28,5 @@ test('renders learn react link', () => {
   expect(linkElement).toBeInTheDocument();
 });
 ```
+
+Note: A test file usually has multiple test blocks.
