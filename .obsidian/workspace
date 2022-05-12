@@ -7,8 +7,12 @@
         "id": "ee11a64ead0fcc23",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/2_Importance_of_testing.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/2_Importance_of_testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "ee11a64ead0fcc23",
   "lastOpenFiles": [
+    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/2_Importance_of_testing.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/1_Setup.md",
     "home/5_projects.md"
   ]
