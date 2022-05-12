@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/4_Structure_of_tests.md",
-            "mode": "source",
+            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Intro_to_query_methods.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/4_Structure_of_tests.md",
+                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Intro_to_query_methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "ee11a64ead0fcc23",
   "lastOpenFiles": [
+    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Intro_to_query_methods.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/4_Structure_of_tests.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/3_Types_of_tests_in_software.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/2_Importance_of_testing.md",
