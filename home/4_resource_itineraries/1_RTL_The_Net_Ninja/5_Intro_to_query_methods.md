@@ -13,3 +13,4 @@ Query methods are used for locating subcomponents/elements of a component.
 | `getAllBy`    | error     | array   | array         | No                  |
 | `queryAllBy`  | `[]`      | array   | array         | No                  |
 | `findAllBy`   | error     | array   | array         | Yes                 |
+- `queryBy` is meant to assert non-existence.
