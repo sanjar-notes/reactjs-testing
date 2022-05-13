@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/6_Locator_priority.md",
+            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/7_Using_query_method.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/6_Locator_priority.md",
+                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/7_Using_query_method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ee11a64ead0fcc23",
   "lastOpenFiles": [
+    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/7_Using_query_method.md",
+    "home/3_roadmap.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/6_Locator_priority.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Intro_to_query_methods.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/4_Structure_of_tests.md",
