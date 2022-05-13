@@ -7,11 +7,9 @@
         "id": "ee11a64ead0fcc23",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/7_Using_query_method.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/Pasted image 20220512111111.png"
           }
         }
       }
@@ -53,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "670a887d6e59d921",
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/7_Using_query_method.md",
+                "file": "assets/Pasted image 20220512111111.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +87,15 @@
   },
   "active": "ee11a64ead0fcc23",
   "lastOpenFiles": [
-    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/7_Using_query_method.md",
+    "assets/Pasted image 20220512111111.png",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/8_Assertions.md",
+    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/7_Using_query_method.md",
     "home/3_roadmap.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/6_Locator_priority.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Intro_to_query_methods.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/4_Structure_of_tests.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/3_Types_of_tests_in_software.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/2_Importance_of_testing.md",
-    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/1_Setup.md",
-    "home/5_projects.md"
+    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/1_Setup.md"
   ]
 }
