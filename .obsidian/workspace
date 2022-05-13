@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Locator_priority.md",
+            "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/6_Locator_priority.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "670a887d6e59d921",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Locator_priority.md",
+                "file": "home/4_resource_itineraries/1_RTL_The_Net_Ninja/6_Locator_priority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +89,7 @@
   },
   "active": "ee11a64ead0fcc23",
   "lastOpenFiles": [
-    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Locator_priority.md",
+    "home/4_resource_itineraries/1_RTL_The_Net_Ninja/6_Locator_priority.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/5_Intro_to_query_methods.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/4_Structure_of_tests.md",
     "home/4_resource_itineraries/1_RTL_The_Net_Ninja/3_Types_of_tests_in_software.md",
