@@ -18,4 +18,4 @@ There are 3.
 3. `byPlaceholderText`
 4. `byText` - the most generic but of sufficient high priority.
 
-If these are not useful, use the Semantic queries or testID, because users will never see (i.e. usually) these.
+If these are not useful, then use the Semantic queries or testID, because users will never see (i.e. usually) these.
