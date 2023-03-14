@@ -11,7 +11,7 @@ In short, specificity is similar to priority.
 
 ##### Locator priorities
 There are 3.
-![[Pasted image 20220512111111.png]]
+![[6_Locator_priority-image-1.png]]
 
 1. `byRole` - locate type of tag - i.e. is a `heading`, or `button` etc.
 2. `byLabelText` - for form labels
